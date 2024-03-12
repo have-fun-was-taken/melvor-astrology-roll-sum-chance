@@ -1,4 +1,5 @@
 # Melvor Astrology Roll-All sum chance
+Warning: from my understanding, Astrology was reworked, so this script is no longer relevant or correct.  
 This script calculates the chance to get the desired percentage or higher with the Roll All button.  
 It only calculates the rolls of one mod. It cannot calculate the rolls of several different mods at the same time.
 
